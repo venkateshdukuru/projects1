@@ -41,7 +41,7 @@ export default function Navigation() {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <img 
-              src="/logo-uploads/7cf4138a-5a01-4a0b-bc58-ee49376b6d9a.png" 
+              src="logo-uploads/ProjectsPlace _ logo.jpg" 
               alt="ProjectsPlace Logo" 
               className="w-8 h-8"
             />
